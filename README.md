@@ -7,7 +7,7 @@ This project is divided into two phases, focusing on **data preparation** and�
 ## Collaborators  
 
 | [![Aymen HM.](https://github.com/aymen-hadj-mebarek.png)](https://github.com/aymen-hadj-mebarek) | [![Yasmine A.](https://github.com/JasminCoding.png)](https://github.com/JasminCoding) | 
-|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|  
+|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
 | **[Aymen HM.](https://github.com/yourusername)**                                               | **[Yasmine A.](https://github.com/JasminCoding)**                                         |
 
 ### **Phase 1: Data Preprocessing**
